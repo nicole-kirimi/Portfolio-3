@@ -1,1 +1,15 @@
+.add{
+    text-decoration-line: underline;
+}
 
+.text-blue{
+    color: blueviolet;
+}
+
+.border-black{
+    border:1px dashed #000000
+}
+
+.random{
+    text-decoration-color: brown;
+}
